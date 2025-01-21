@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20tecno%20Bot%20🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 > ⌛ Versión Actual: 1.1.2
- ## 🚀 ® **`TECNO-BOT`**
+ ## 🚀 ® **`DARK KING BOT`**
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -39,7 +39,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|Deyin;🌠🚩)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|꧁JesusTBK꧂;🌠🚩)](https://git.io/typing-svg)
 
 ### **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
 <a
@@ -49,7 +49,7 @@ href="https://github.com/Deylinel"><img src="https://github.com/Deylinel.png" wi
 href="ninopina10@gmail.com" target="blue"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
 
-### [© Powered By Deyin⚡︎](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)
+### [© Powered By 𝐷𝑎𝑟𝑘 𝐾𝑖𝑛𝑔 💸🖕](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

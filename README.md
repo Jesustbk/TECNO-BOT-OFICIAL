@@ -2,13 +2,13 @@
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20tecno%20Bot%20🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20𝐷𝑎𝑟𝑘%20𝐵𝑜𝑡%20🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
 > ⌛ Versión Actual: 1.1.2
  ## 💸 ® **`𝐷𝑎𝑟𝑘 𝐾𝑖𝑛𝑔 𝐵𝑜𝑡`**
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/Jesustbk" width="100%">
 
 
 ![Menú Principal](https://f.uguu.se/jWHVBBep.jpg)

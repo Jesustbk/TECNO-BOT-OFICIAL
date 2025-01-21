@@ -1,6 +1,6 @@
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src=https://github.com/Jesustbk/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenidos%20-%20𝐷𝑎𝑟𝑘%20𝐵𝑜𝑡%20🌠&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/> 
 
@@ -38,7 +38,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|꧁JesusTBK꧂;🌠🚩)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🍹;Creado+por+Mr.|꧁JesusTBK꧂;💣💸)](https://git.io/typing-svg)
 
 ### **`𝐶𝑟𝑒𝑎𝑑𝑜𝑟 💣`**
 <a

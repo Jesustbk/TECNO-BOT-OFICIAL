@@ -40,7 +40,7 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=400&color=FF0000&lines=Espero+Este+Repositorio;Sea+De+Su+agrado+gracias🫂;Creado+por+Mr.|꧁JesusTBK꧂;🌠🚩)](https://git.io/typing-svg)
 
-### **`💛 𝘊𝘙𝘌𝘈𝘋𝘖𝘙`**
+### **`𝐶𝑟𝑒𝑎𝑑𝑜𝑟 💣`**
 <a
 href="https://github.com/Deylinel"><img src="https://github.com/Deylinel.png" width="130" height="130" alt="deylin"/></a>
 
@@ -48,7 +48,7 @@ href="https://github.com/Deylinel"><img src="https://github.com/Deylinel.png" wi
 href="ninopina10@gmail.com" target="blue"><img
 src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" />
 
-### [© 𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝐵𝑦 𝐷𝑎𝑟𝑘 𝐾𝑖𝑛𝑔 💸🖕](https://whatsapp.com/channel/0029VawF8fBBvvsktcInIz3m)
+### [© 𝑃𝑜𝑤𝑒𝑟𝑒𝑑 𝐵𝑦 𝐷𝑎𝑟𝑘 𝐾𝑖𝑛𝑔 💸🖕](https://whatsapp.com/channel/0029Vay1OxHChq6Qr6TGmB2W)
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

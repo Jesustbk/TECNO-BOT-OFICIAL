@@ -30,7 +30,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-- **StarCore:** [`Aquí`](https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t)
+- **StarCore:** [`Aquí`](https://whatsapp.com/channel/0029Vay1OxHChq6Qr6TGmB2W)
 
 </details>
 

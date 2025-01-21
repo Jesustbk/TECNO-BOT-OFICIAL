@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines= 𝓙𝓮𝓼𝓾𝓼 𝓣𝓑𝓚 ;𝓝𝓾𝓮𝓿𝓸+𝓑𝓸𝓽+𝓡𝓮𝓬𝓲𝓮𝓷 𝓔𝓭𝓲𝓽𝓪𝓭𝓸 𝓑𝓑 ; 𝓑𝔂:+𝓐𝓭𝓶𝓲𝓷 ; y+StarCore+Team;TECNO-BOT-El+Mejor+Bot!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=600" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines= 𝓙𝓮𝓼𝓾𝓼 𝓣𝓑𝓚 ;𝓝𝓾𝓮𝓿𝓸+𝓑𝓸𝓽+𝓡𝓮𝓬𝓲𝓮𝓷 𝓔𝓭𝓲𝓽𝓪𝓭𝓸 𝓑𝓑 ; 𝓑𝔂:+𝓐𝓭𝓶𝓲𝓷 ; 𝓨+𝓢𝓽𝓪𝓻𝓒𝓸𝓻𝓮+𝓣𝓮𝓪𝓶;꧁𝓓𝓪𝓻𝓴 𝓚𝓲𝓷𝓰-𝓑𝓸𝓽꧂-𝓛𝓪 𝓷𝓾𝓮𝓿𝓪+𝓔𝓻𝓪+𝓑𝓑!&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=600" alt="Example Usage - README Typing SVG">
 </p>
 
 <!-- RAINBOW LINE BOT -->

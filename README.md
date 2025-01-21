@@ -42,7 +42,7 @@
 
 ### **`𝐶𝑟𝑒𝑎𝑑𝑜𝑟 💣`**
 <a
-href="https://github.com/Deylinel"><img src="https://github.com/Deylinel.png" width="130" height="130" alt="deylin"/></a>
+href="https://github.com/Jesustbk"><img src="https://github.com/Jesustbk.png" width="130" height="130" alt="deylin"/></a>
 
 <a
 href="ninopina10@gmail.com" target="blue"><img

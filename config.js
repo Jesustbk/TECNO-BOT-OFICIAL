@@ -7,14 +7,14 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 
 //*═══════════✧════════════✧═══════════*
-//* ⚙️ TECNO - BOT System Configuration ⚙️ *
+//* ⚙️ BLACK - BOT System Configuration ⚙️ *
 //*═══════════✧════════════✧═══════════*
 
 global.owner = [
-  ['50557865603', 'WillZek', true],
-  ['50498409019', 'CrowBot-AI', true],
-  ['584241836217', 'Prak Harper', true],
-  ['50488198573', 'DEYLIN-Support', true]
+  ['584147200139', 'BLACK', true],
+  ['', '', true],
+  ['', '', true],
+  ['', '', true]
 ]; // <-- Corchete de cierre y coma añadidos
 
 //*═══════════✧════════════✧═══════════*
@@ -24,15 +24,15 @@ global.prems = []; // Usuarios premium
 
 //*═══════════✧════════════✧═══════════*
 
-global.packname = `⟢⧫ TECNO BOT ⦾ System Core AI ⧫⟣`;
-global.author = '⚙️ TECNO BOT by DEYLIN ⚙️';
-global.stickpack = '© TECNO - BOT ⚡';
-global.stickauth = '🔧 Powered by DEYLIN ';
+global.packname = `⟢⧫BLACK BOT ⦾ System Core AI ⧫⟣`;
+global.author = '⚙️ BLACK BOT by BLACK ⚙️';
+global.stickpack = '©BLACK BOT ';
+global.stickauth = '🔧 Powered by BLACK';
 global.wait = '⏳ *Procesando solicitud... conectando a la red.* ⏳';
-global.botname = '⟢🚀 TECNO BOT 🚀⟣';
+global.botname = '⟢ BLACK BOT ⟣';
 global.textbot = ` *TECNO BOT - Desarrollado por DEYLIN* `;
 global.listo = '✔️ *¡Tarea completada con éxito!* 🚀';
-global.namechannel = '📡 *TECNO BOT Channel* ';
+global.namechannel = '📡 *BLACK BOT Channel* ';
 
 //*═══════════✧════════════✧═══════════*
 
@@ -58,7 +58,7 @@ global.estilo = {
       status: 1, 
       surface: 1, 
       message: botname, 
-      orderTitle: '⚡ Tecno-bot System ⚡', 
+      orderTitle: '⚡ BLACK-BOT System ⚡', 
       thumbnail: catalogo, 
       sellerJid: '0@s.whatsapp.net' 
     }

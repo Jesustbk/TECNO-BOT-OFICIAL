@@ -1,5 +1,5 @@
 {
-    "name": "TECNO-BOT",
+    "name": "BLACK-BOT",
     "version": "1.0.0",
     "description": "Is the best",
     "main": "index.js",
@@ -28,11 +28,11 @@
     ],
     "homepage": "https://github.com/Deylinel/TECNO-BOT-OFICIAL",
     "author": {
-        "name": "WillZek"
+        "name": "BLACK"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Deylinel/TECNO-BOT-OFICIAL.git"
+        "url": "git+https://github.com/Deylinel/BLACK-BOT-OFICIAL.git"
     },
     "bugs": {
         "url":
